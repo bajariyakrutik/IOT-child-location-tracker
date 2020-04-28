@@ -3,13 +3,13 @@ This is a miniproject in IOT that helps the parents to track their kid while he/
 
 ![Schematic Diagram](SchematicDiagram.png)
 
-Hardware Requirements:
+Hardware Requirements:<br />
 1.Arduino UNO<br />
 2.NEO-6M GPS module<br />
 3.SIM 800l GSM module<br />
 4.Breadboard<br />
 5.Jumper wires
 
-Software Requirements:
-Arduino Program Editor
+Software Requirements:<br />
+Arduino Program Editor<br />
 https://create.arduino.cc/editor
